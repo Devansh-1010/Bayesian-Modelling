@@ -1,0 +1,1 @@
+These are the assignments of Bayesian Modelling course i have done it contains posterior estimation thorugh priors and likelihood, paramater estimation using MCMC, HMC, and other algorithms, and the model comparsion for the bayesian regression using cross-validation and other techniques
